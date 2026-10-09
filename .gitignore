@@ -1,0 +1,17 @@
+# Артефакты сборки STM32CubeIDE
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.hex
+*.bin
+*.list
+*.map
+default.size.stdout
+Release/
+
+# Служебные файлы IDE и ОС
+.metadata/
+*.launch
+.DS_Store
