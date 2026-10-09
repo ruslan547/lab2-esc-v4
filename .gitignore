@@ -15,3 +15,4 @@ Release/
 .metadata/
 *.launch
 .DS_Store
+!objects.list
